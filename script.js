@@ -8,7 +8,7 @@ if (query) {
 
 // Load readme content
 $.ajax({
-	url: "http://shylph.github.io/readme.md",
+	url: "https://shylph.github.io/readme.md",
 	dataType: 'text',
 	success: function(data) {
 		
